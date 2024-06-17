@@ -5,22 +5,32 @@ aliases:
 tags:
 ---
 
-# 📃 Course -> 
+## Course Title
+## Date
 
----
-# ❓ Information
-Type:: 
-Speaker:: 
-Subject:: 
+## Lecture Topic
 
-# 🌍Topic: 
----
-
-## 📜 Notes and Aliases
-
-## 🎯 Assignments
+## Key Points
 - 
-## 📦 Resources
 - 
-## 📅 Important Dates
 - 
+
+## Important Concepts
+- 
+- 
+
+## Examples/Case Studies
+- 
+- 
+
+## Questions Raised
+- 
+- 
+
+## Summary of Lecture
+
+## Assignments/Readings
+- 
+- 
+
+## Personal Reflection
