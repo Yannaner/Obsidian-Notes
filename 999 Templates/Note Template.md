@@ -10,6 +10,9 @@ tags:
 
 ## Lecture Topic
 
+## Notes
+
+
 ## Key Points
 - 
 - 
