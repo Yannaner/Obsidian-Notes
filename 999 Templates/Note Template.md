@@ -17,6 +17,12 @@ tags:
 - 
 - 
 - 
+```math
+||{"id":1057794709810}||
+
+1^5 =
+
+```
 
 ## Important Concepts
 - 
