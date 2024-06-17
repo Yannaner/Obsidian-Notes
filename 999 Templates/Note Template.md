@@ -5,12 +5,12 @@ aliases:
 tags:
 ---
 
-## Course Title
+## 💻Course Title
 ## Date
 
 ## Lecture Topic
 
-## Key Points
+## 🔝Key Points
 - 
 - 
 - 
