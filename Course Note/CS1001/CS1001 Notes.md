@@ -10,7 +10,7 @@ tags:
 
 ## Lecture Topic
 
-## Key Points
+## 🔝Key Points
 - 
 - 
 - 
