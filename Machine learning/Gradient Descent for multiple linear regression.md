@@ -34,3 +34,5 @@ $$
         - Not generalized to other algorithms like logistic regression or neural networks.
         - Slower for large feature sets.
         - Rarely implemented manually by practitioners but may be used in some machine learning libraries.
+
+[[General Notation.png]]
