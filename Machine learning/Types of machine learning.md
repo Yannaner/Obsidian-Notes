@@ -144,3 +144,6 @@ Notes Links:
 [[Gradient Descent]]
 [[Multiple Features]]
 [[Feature Scaling]]
+
+#### Features Engineering:
+- Using intuition to design new features, by transforming or combining original features
