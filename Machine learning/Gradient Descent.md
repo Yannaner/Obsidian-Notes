@@ -46,3 +46,4 @@ $$
     - The algorithm iteratively updates parameters based on the gradient, aiming to reach the lowest point on the cost function surface for the best model fit.
 
 [[Gradient Descent Intuition]]
+[[Gradient Descent Convergence]]
