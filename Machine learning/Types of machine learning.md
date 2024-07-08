@@ -143,3 +143,4 @@ Notes Links:
 [[Cost Function]]
 [[Gradient Descent]]
 [[Multiple Features]]
+[[Feature Scaling]]
