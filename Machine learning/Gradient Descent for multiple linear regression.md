@@ -36,3 +36,23 @@ $$
         - Rarely implemented manually by practitioners but may be used in some machine learning libraries.
 
 [[General Notation.png]]
+
+Gradient descent for multiple variables:
+
+$$\begin{align*} \text{repeat}&\text{ until convergence:} \; \lbrace \newline\;
+& w_j = w_j -  \alpha \frac{\partial J(\mathbf{w},b)}{\partial w_j} \tag{5}  \; & \text{for j = 0..n-1}\newline
+&b\ \ = b -  \alpha \frac{\partial J(\mathbf{w},b)}{\partial b}  \newline \rbrace
+\end{align*}$$
+
+where, n is the number of features, parameters $w_j$,  $b$, are updated simultaneously and where  
+
+$$
+\begin{align}
+\frac{\partial J(\mathbf{w},b)}{\partial w_j}  &= \frac{1}{m} \sum\limits_{i = 0}^{m-1} (f_{\mathbf{w},b}(\mathbf{x}^{(i)}) - y^{(i)})x_{j}^{(i)} \tag{6}  \\
+\frac{\partial J(\mathbf{w},b)}{\partial b}  &= \frac{1}{m} \sum\limits_{i = 0}^{m-1} (f_{\mathbf{w},b}(\mathbf{x}^{(i)}) - y^{(i)}) \tag{7}
+\end{align}
+$$
+* m is the number of training examples in the data set
+
+    
+*  $f_{\mathbf{w},b}(\mathbf{x}^{(i)})$ is the model's prediction, while $y^{(i)}$ is the target value
