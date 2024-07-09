@@ -55,3 +55,4 @@
 - A lower value of $J(w,b)$ indicates a better fit of the model to the training data.
 - The aim is to find $w$ and $b$ that minimize $J(w,b)$, leading to more accurate predictions.
 [[Cost Function Intuition]]
+[[Cost Function for Logistic Regression]]
