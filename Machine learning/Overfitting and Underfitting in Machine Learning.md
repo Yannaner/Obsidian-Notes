@@ -73,7 +73,7 @@ egies to Address Overfitting
     - More data helps the model learn a less complex and more accurate function.
     - **Example:** In house price prediction, gathering more data points on house sizes and prices can help the model avoid fitting a wiggly function.
 - **Graph:**
-    ![More Training Data](path/to/more_training_data.png)
+    ![[Pasted image 20240709141521.png]]
 
 - **Limitation:**
     - Not always feasible to collect more data, especially in cases where data is limited or expensive to obtain.
@@ -85,7 +85,7 @@ egies to Address Overfitting
     - Feature selection involves choosing the most relevant features for the prediction task.
     - **Example:** Instead of using 100 features like size, bedrooms, age, and distance to the nearest coffee shop, use only the most relevant ones like size, bedrooms, and age.
 - **Graph:**
-    ![Fewer Features](path/to/fewer_features.png)
+    !![[Pasted image 20240709141618.png]]
 
 - **Limitation:**
     - Using fewer features might result in losing valuable information.
@@ -98,7 +98,7 @@ egies to Address Overfitting
     - It reduces the magnitude of the parameters, shrinking them towards zero without eliminating them.
     - **Example:** Even with higher-order polynomial features, regularization can help the model fit the training data better by preventing the parameters from becoming too large.
 - **Graph:**
-    ![Regularization](path/to/regularization.png)
+    ![[Pasted image 20240709141731.png]]
 
 - **Details:**
     - Regularization keeps all features but controls their impact.
@@ -111,11 +111,4 @@ egies to Address Overfitting
 - **Feature Selection:** Useful to reduce overfitting, but be cautious of losing important information.
 - **Regularization:** A flexible and powerful technique that you'll learn to apply in detail in the next video.
 
-### Lab on Overfitting
-
-- **Optional Lab:**
-    - Interactive lab to build intuition about overfitting and methods to address it.
-    - Experiment with regression and classification examples.
-    - Adjust polynomial degree and explore the effects of adding training data and selecting features.
-
-In this video, we introduced regularization at a high level. The next video will dive deeper into how to apply regularization, its formulation, and how to integrate it with learning algorithms to prevent overfitting in linear and logistic regression, as well as other algorithms. Let's continue to the next video to explore these concepts further.
+[[Cost Function Regularization]]
