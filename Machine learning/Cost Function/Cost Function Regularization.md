@@ -131,4 +131,4 @@ def compute_cost_logistic_reg(X, y, w, b, lambda_ = 1):
     return total_cost
 ```
 
-
+[[Computing the Gradient with regularization]]
