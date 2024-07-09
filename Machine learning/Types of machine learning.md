@@ -144,6 +144,7 @@ Notes Links:
 [[Gradient Descent]]
 [[Multiple Features]]
 [[Feature Scaling]]
+[[Motivation Machin learning category classtification]]
 
 #### Features Engineering:
 - Using intuition to design new features, by transforming or combining original features
