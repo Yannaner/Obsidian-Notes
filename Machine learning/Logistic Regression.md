@@ -44,4 +44,4 @@
     - $f(x) = P(y = 1 \mid x; w, b)$
     - $w$ and $b$ are parameters of the model.
 
-[[Decision Boundary]]
+[[Decision Boundary in Logistic Regression]]
