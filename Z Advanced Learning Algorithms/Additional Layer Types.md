@@ -47,3 +47,5 @@ Convolutional layers are powerful tools that can improve neural networks. They h
 Research continues to develop new types of layers, like transformers and LSTMs. Combining these layers can create even more powerful neural networks.
 
 Congratulations on completing this material! Next week, we'll cover practical advice for building machine learning systems to help you become more effective in this field.
+
+
